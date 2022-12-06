@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/endorlabs/npmdepstest#readme",
   "dependencies": {
-    "express": "4.1.0"
+    "express": "4.17.3"
   },
   "devDependencies": {
     "mime-types": "2.1.35"
